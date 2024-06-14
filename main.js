@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <p>Description: ${seminar.description}</p>
             <p>Timing: ${seminar.timing}</p>
             <p>Venue: ${seminar.venue}</p>
+            <button class="apply-btn">Apply</button>
         `;
         seminarList.appendChild(seminarCard);
     });
