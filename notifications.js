@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h4>${notification.title}</h4>
                 <p>Update: ${notification.update}</p>
                 <p>Date: ${notification.date}</p>
+                <button class="apply-btn">Apply</button>
             `;
             notificationList.appendChild(notificationCard);
         });
