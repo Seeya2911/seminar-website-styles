@@ -104,3 +104,44 @@ body {
         gap: 10px;
     }
 }
+.seminar-card {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.seminar-card h4 {
+    margin-top: 0;
+}
+
+.seminar-card p {
+    margin-bottom: 5px;
+}
+
+.apply-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.apply-btn:hover {
+    background-color: #0056b3;
+}
+
+.apply-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.apply-btn:hover {
+    background-color: #0056b3;
+}
